@@ -1,7 +1,6 @@
 ﻿//MP3 simulation
 //This file contains the Planet class.
 
-//You should not change this file. Please use as is.
 
 using System;
 
